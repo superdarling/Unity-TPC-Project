@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unityproject\\\u9898\u76EE1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D000E8-1D2F-8394-15B3-C41992D4D0A4}|Assembly-CSharp.csproj|d:\\unityproject\\\u9898\u76EE1\\assets\\scripts\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D000E8-1D2F-8394-15B3-C41992D4D0A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D000E8-1D2F-8394-15B3-C41992D4D0A4}|Assembly-CSharp.csproj|D:\\unityproject\\\u9898\u76EE1\\assets\\scripts\\mainthreadexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D000E8-1D2F-8394-15B3-C41992D4D0A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainthreadexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D000E8-1D2F-8394-15B3-C41992D4D0A4}|Assembly-CSharp.csproj|D:\\unityproject\\\u9898\u76EE1\\assets\\scripts\\unitymainthreaddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D000E8-1D2F-8394-15B3-C41992D4D0A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unitymainthreaddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D000E8-1D2F-8394-15B3-C41992D4D0A4}|Assembly-CSharp.csproj|D:\\unityproject\\\u9898\u76EE1\\assets\\scripts\\tcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D000E8-1D2F-8394-15B3-C41992D4D0A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D000E8-1D2F-8394-15B3-C41992D4D0A4}|Assembly-CSharp.csproj|D:\\unityproject\\\u9898\u76EE1\\assets\\scripts\\dinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D000E8-1D2F-8394-15B3-C41992D4D0A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D000E8-1D2F-8394-15B3-C41992D4D0A4}|Assembly-CSharp.csproj|D:\\unityproject\\\u9898\u76EE1\\assets\\scripts\\leftstickcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D000E8-1D2F-8394-15B3-C41992D4D0A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\leftstickcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D000E8-1D2F-8394-15B3-C41992D4D0A4}|Assembly-CSharp.csproj|D:\\unityproject\\\u9898\u76EE1\\assets\\scripts\\onscreenstick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D000E8-1D2F-8394-15B3-C41992D4D0A4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\onscreenstick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TCPClient.cs",
+              "DocumentMoniker": "D:\\unityproject\\\u9898\u76EE1\\Assets\\Scripts\\TCPClient.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TCPClient.cs",
+              "ToolTip": "D:\\unityproject\\\u9898\u76EE1\\Assets\\Scripts\\TCPClient.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TCPClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:25:55.371Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainThreadExecutor.cs",
+              "DocumentMoniker": "D:\\unityproject\\\u9898\u76EE1\\Assets\\Scripts\\MainThreadExecutor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainThreadExecutor.cs",
+              "ToolTip": "D:\\unityproject\\\u9898\u76EE1\\Assets\\Scripts\\MainThreadExecutor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainThreadExecutor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:10:56.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnityMainThreadDispatcher.cs",
+              "DocumentMoniker": "D:\\unityproject\\\u9898\u76EE1\\Assets\\Scripts\\UnityMainThreadDispatcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnityMainThreadDispatcher.cs",
+              "ToolTip": "D:\\unityproject\\\u9898\u76EE1\\Assets\\Scripts\\UnityMainThreadDispatcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnityMainThreadDispatcher.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:19:52.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TCPServer.cs",
+              "DocumentMoniker": "D:\\unityproject\\\u9898\u76EE1\\Assets\\Scripts\\TCPServer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TCPServer.cs",
+              "ToolTip": "D:\\unityproject\\\u9898\u76EE1\\Assets\\Scripts\\TCPServer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TCPServer.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAYwD4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:18:57.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OnScreenStick.cs",
+              "DocumentMoniker": "D:\\unityproject\\\u9898\u76EE1\\Assets\\Scripts\\OnScreenStick.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OnScreenStick.cs",
+              "ToolTip": "D:\\unityproject\\\u9898\u76EE1\\Assets\\Scripts\\OnScreenStick.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OnScreenStick.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA2wCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:28:20.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeftStickController.cs",
+              "DocumentMoniker": "D:\\unityproject\\\u9898\u76EE1\\Assets\\Scripts\\LeftStickController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LeftStickController.cs",
+              "ToolTip": "D:\\unityproject\\\u9898\u76EE1\\Assets\\Scripts\\LeftStickController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LeftStickController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:24:37.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DinoController.cs",
+              "DocumentMoniker": "D:\\unityproject\\\u9898\u76EE1\\Assets\\Scripts\\DinoController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DinoController.cs",
+              "ToolTip": "D:\\unityproject\\\u9898\u76EE1\\Assets\\Scripts\\DinoController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DinoController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:04:18.315Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

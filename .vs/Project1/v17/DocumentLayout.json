@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unityproject\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75AC4C40-F16B-156B-5A80-9157E3301C82}|Assembly-CSharp.csproj|D:\\unityproject\\Project1\\assets\\scripts\\tcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AC4C40-F16B-156B-5A80-9157E3301C82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AC4C40-F16B-156B-5A80-9157E3301C82}|Assembly-CSharp.csproj|D:\\unityproject\\Project1\\Assets\\Scripts\\AnimationUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AC4C40-F16B-156B-5A80-9157E3301C82}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\AnimationUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AC4C40-F16B-156B-5A80-9157E3301C82}|Assembly-CSharp.csproj|D:\\unityproject\\Project1\\Assets\\Scripts\\HighlightUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AC4C40-F16B-156B-5A80-9157E3301C82}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\HighlightUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AC4C40-F16B-156B-5A80-9157E3301C82}|Assembly-CSharp.csproj|D:\\unityproject\\Project1\\assets\\scripts\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AC4C40-F16B-156B-5A80-9157E3301C82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AC4C40-F16B-156B-5A80-9157E3301C82}|Assembly-CSharp.csproj|D:\\unityproject\\Project1\\assets\\scripts\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AC4C40-F16B-156B-5A80-9157E3301C82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AC4C40-F16B-156B-5A80-9157E3301C82}|Assembly-CSharp.csproj|D:\\unityproject\\Project1\\assets\\scenes\\logtester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AC4C40-F16B-156B-5A80-9157E3301C82}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\logtester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AC4C40-F16B-156B-5A80-9157E3301C82}|Assembly-CSharp.csproj|D:\\unityproject\\Project1\\Assets\\Scripts\\TextureUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AC4C40-F16B-156B-5A80-9157E3301C82}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\TextureUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AC4C40-F16B-156B-5A80-9157E3301C82}|Assembly-CSharp.csproj|D:\\unityproject\\Project1\\Assets\\Scripts\\LogEntry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AC4C40-F16B-156B-5A80-9157E3301C82}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\LogEntry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AC4C40-F16B-156B-5A80-9157E3301C82}|Assembly-CSharp.csproj|D:\\unityproject\\Project1\\assets\\scripts\\dinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AC4C40-F16B-156B-5A80-9157E3301C82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AC4C40-F16B-156B-5A80-9157E3301C82}|Assembly-CSharp.csproj|D:\\unityproject\\Project1\\assets\\scripts\\leftstickcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AC4C40-F16B-156B-5A80-9157E3301C82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\leftstickcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogTester.cs",
+              "DocumentMoniker": "D:\\unityproject\\Project1\\Assets\\Scenes\\LogTester.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\LogTester.cs",
+              "ToolTip": "D:\\unityproject\\Project1\\Assets\\Scenes\\LogTester.cs",
+              "RelativeToolTip": "Assets\\Scenes\\LogTester.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:40:02.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LeftStickController.cs",
+              "DocumentMoniker": "D:\\unityproject\\Project1\\Assets\\Scripts\\LeftStickController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LeftStickController.cs",
+              "ToolTip": "D:\\unityproject\\Project1\\Assets\\Scripts\\LeftStickController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LeftStickController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAzwDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T17:22:49.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogEntry.cs",
+              "DocumentMoniker": "D:\\unityproject\\Project1\\Assets\\Scripts\\LogEntry.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LogEntry.cs",
+              "ToolTip": "D:\\unityproject\\Project1\\Assets\\Scripts\\LogEntry.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LogEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T16:19:49.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogManager.cs",
+              "DocumentMoniker": "D:\\unityproject\\Project1\\Assets\\Scripts\\LogManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LogManager.cs",
+              "ToolTip": "D:\\unityproject\\Project1\\Assets\\Scripts\\LogManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LogManager.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwEMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T16:18:13.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HighlightUI.cs",
+              "DocumentMoniker": "D:\\unityproject\\Project1\\Assets\\Scripts\\HighlightUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HighlightUI.cs",
+              "ToolTip": "D:\\unityproject\\Project1\\Assets\\Scripts\\HighlightUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HighlightUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T16:05:24.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimationUI.cs",
+              "DocumentMoniker": "D:\\unityproject\\Project1\\Assets\\Scripts\\AnimationUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnimationUI.cs",
+              "ToolTip": "D:\\unityproject\\Project1\\Assets\\Scripts\\AnimationUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnimationUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T16:01:14.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TextureUI.cs",
+              "DocumentMoniker": "D:\\unityproject\\Project1\\Assets\\Scripts\\TextureUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TextureUI.cs",
+              "ToolTip": "D:\\unityproject\\Project1\\Assets\\Scripts\\TextureUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TextureUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T15:51:06.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DinoController.cs",
+              "DocumentMoniker": "D:\\unityproject\\Project1\\Assets\\Scripts\\DinoController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DinoController.cs",
+              "ToolTip": "D:\\unityproject\\Project1\\Assets\\Scripts\\DinoController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DinoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T14:45:00.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TCPClient.cs",
+              "DocumentMoniker": "D:\\unityproject\\Project1\\Assets\\Scripts\\TCPClient.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TCPClient.cs",
+              "ToolTip": "D:\\unityproject\\Project1\\Assets\\Scripts\\TCPClient.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TCPClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:50:51.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TCPServer.cs",
+              "DocumentMoniker": "D:\\unityproject\\Project1\\Assets\\Scripts\\TCPServer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TCPServer.cs",
+              "ToolTip": "D:\\unityproject\\Project1\\Assets\\Scripts\\TCPServer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TCPServer.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAcwKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:50:33.528Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
